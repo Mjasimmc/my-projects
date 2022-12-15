@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+}
+.main{
+    width: 412px;
+    height: 878px;
+}
+button{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+}
+button:hover{
+    background-color: aqua;
+}
